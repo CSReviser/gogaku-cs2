@@ -19,31 +19,6 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
-
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
- 
   - title: ドキュメント
     output: web, pdf
     folderitems:
@@ -77,17 +52,21 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Windows版インストール手順
+        - title: Windows版
           url: /install_win.html
           output: web
 
-        - title: Ubuntu版インストール(ビルド)手順
+        - title: Ubuntu版
           url: /install_linux.html
           output: web
 
-        - title: MacOS版インストール手順
+        - title: MacOS版
           url: /install_mac.html
           output: web
+
+    - title: MacOS版について
+      url: /macos.html
+      output: web, pdf
 
   - title: Release Notes
     output: web, pdf

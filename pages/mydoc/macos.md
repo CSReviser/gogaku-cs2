@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
+---
+title: MacOSユーザの方へ
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "macOS版は動作確認できていない"
+published: true
+sidebar: mydoc_sidebar
+permalink: macos.html
+folder: mydoc
+---
+
 ## 【MacOSユーザの方へ】     
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 **語学講座CS2の改版者はMacに関する知識が乏しく、またMac実機環境を所有しておりませんが、Macユーザーの有志の方々からいただいた動作報告や情報提供を基に、GitHubを通じてmacOS向けの実行ファイルを提供してまいりました。**
 **しかし、近年のmacOSにおけるセキュリティ強化の影響で、Apple App Store以外からインターネット経由で入手したアプリのインストールが警告されたり、阻止されたりするケースが増えているようです。このような状況を踏まえ、Mac実機を使った動作確認が行えないままビルドした実行ファイルをトップページで公開するのは適切ではないと判断し、現在はその掲載を見合わせております。**
 
