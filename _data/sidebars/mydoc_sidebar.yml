@@ -19,6 +19,16 @@ entries:
       output: pdf
       type: frontmatter
 
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: ホームページ
+      url: /index.html
+      output: web, pdf
+      type: homepage
+      
+      
   - title: ドキュメント
     output: web, pdf
     folderitems:
