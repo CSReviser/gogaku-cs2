@@ -44,23 +44,23 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
  
-  - title: Chapter Book
+  - title: ドキュメント
     output: web, pdf
     folderitems:
 
-    - title: Cam Jansen mystery series
-      url: /mydoc_cam_jansen.html
+    - title: 初めての方へ
+      url: /introduction.html
       output: web, pdf
 
-    - title: Dragon Masters series
-      url: /mydoc_dragon_masters.html
+    - title: 従来との主な違い
+      url: /CS_vs_CS2.html
       output: web, pdf
 
-    - title: Junie B. Jones series
-      url: /mydoc_junie_b_jones.html
+    - title: 制限事項
+      url: /limitations.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: 必要要件
       url: /mydoc_about.html
       output: web, pdf
 
