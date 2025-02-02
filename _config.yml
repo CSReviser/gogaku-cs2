@@ -4,16 +4,16 @@ repository : csreviser/fvr
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: "英語多読・多聴"
+topnav_title: 語学講座CS2
 # this appears on the top navigation bar next to the home button
 
-site_title: "英語多読・多聴"
+site_title: 語学講座CS2
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Copyright 2025 CSReviser
 # this appears in the footer
 
-github_editme_path: csreviser/fvr/gh-pages/
+github_editme_path: csreviser/gogaku-cs2/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -36,7 +36,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: csreviser@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 feedback_disable: true
