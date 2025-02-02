@@ -61,12 +61,33 @@ entries:
       output: web, pdf
 
     - title: 必要要件
-      url: /mydoc_about.html
+      url: /requirements.html
       output: web, pdf
 
-    - title: Support
+    - title: ストリーミング公開期間
       url: /mydoc_support.html
       output: web, pdf
+
+    - title: 対象講座と番組ID一覧
+      url: /mydoc_support.html
+      output: web, pdf
+
+      subfolders:
+      - title: インストール手順
+        output: web
+        subfolderitems:
+
+        - title: Windows版インストール手順
+          url: /install_win.html
+          output: web
+
+        - title: Ubuntu版インストール(ビルド)手順
+          url: /install_linux.html
+          output: web
+
+        - title: MacOS版インストール手順
+          url: /install_mac.html
+          output: web
 
   - title: Release Notes
     output: web, pdf

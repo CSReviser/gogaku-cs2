@@ -1,6 +1,17 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
+---
+title: Mac版インストール手順
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "Mac版インストール手順"
+published: true
+sidebar: mydoc_sidebar
+permalink: install_mac.html
+folder: mydoc
+---
+
+
 ## 【Mac版インストール手順】　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 ####  macOS版のインストール手順です。Macユーザーの[Twitterの投稿](https://twitter.com/Miiaaenglish/status/1515131329112858626?s=20&t=fKw38ZN5fkIG9q911hDAFw)の情報に基づいて作成しています。        
 ####  ※ 図内の「CS-English」と記載の部分は「CaptureStream2」と読み替えてください。             
 ####  [Windows版インストール手順はこちら](https://csreviser.github.io/CaptureStream2/install_win)
@@ -63,7 +74,7 @@
    * **画面下にある「ダウンロードしたアプリケーションの実行許可」から「そのまま開く」をクリックします。**
 
 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

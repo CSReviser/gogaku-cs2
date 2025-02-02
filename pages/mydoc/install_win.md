@@ -1,6 +1,15 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
+---
+title: Windows版インストール手順
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "Windows版インストール手順"
+published: true
+sidebar: mydoc_sidebar
+permalink: install_win.html
+folder: mydoc
+---
+
 ## 【Windows版インストール手順】　　　　　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
 
 ####  [macOS版インストール手順はこちら](./install_mac)
 
@@ -50,9 +59,7 @@
 #### 　　
 　　　![無題18](https://user-images.githubusercontent.com/46049273/209804826-7098904e-75a9-45ce-b826-34668ad22b72.png)
 
-####   　
-####   　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

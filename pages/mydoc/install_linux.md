@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
+---
+title: Ubuntu版インストール(ビルド)手順
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "Ubuntu版インストール(ビルド)手順"
+published: true
+sidebar: mydoc_sidebar
+permalink: install_linux.html
+folder: mydoc
+---
+
 ## 【Ubuntu版インストール(ビルド)手順】　　　　　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 **このサイトで提供しているUbuntu版の実行ファイル（バイナリ）は、ＯＳ環境によって動作しないことがあるようです。ここでは環境に合うように、ご自身でビルドして頂く手順の例を示します。ビルドする際に参考にしてお試しください。[【Ubuntu版 qt6インストール手順】](./qt_install)も参考にしてください。**
 **端末から以下の手順でコマンドを実行します。**
@@ -83,9 +93,7 @@ cp ./qss_files/stylesheet-ubu.qss ~/LinCaptureStream2/
 ```
 **※ ffmpegは実行するCaptureStream2と同じフォルダに置く必要があります。**
 
-####   　
-####   　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
