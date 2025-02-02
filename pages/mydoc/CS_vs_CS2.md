@@ -1,3 +1,13 @@
+---
+title: 従来との主な違い
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
+published: true
+sidebar: mydoc_sidebar
+permalink: CS_vs_CS2.html
+folder: mydoc
+---
 ## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
 ## 【従来との主な違い】            
 #### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
