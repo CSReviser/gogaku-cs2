@@ -1,30 +1,30 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
-tags: [getting_started]
+title: "語学講座CS2"
+keywords: 語学講座CS2
+tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: 語学講座CS2は、NHKラジオ語学講座の「らじる★らじる」（聴き逃し）ストリーミング配信を自動録音するためのアプリです。録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。" %}
 
-## Build the Theme
+## ドキュメント
 
 Follow these instructions to build the theme.
 
-### 1. Download the theme
+### 1. 初めての方へ
 
 First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
 
-### 2. Install Jekyll
+### 2. 従来との主な違い
 
 If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
 
-### 3. Install Bundler
+### 3. 制限事項
 
 In case you haven't installed Bundler, install it:
 
@@ -55,7 +55,7 @@ Now run jekyll serve (first change directories (`cd`) to where you downloaded th
 jekyll serve
 ```
 
-### 4. Option 2: Build the Theme (*with* the github-pages gem) {#option2}
+### 4. 必要要件 {#option2}
 
 If you *are* in fact publishing on Github Pages, leave the Gemfile and Gemfile.lock files in the theme.The Gemfile tells Jekyll to use the github-pages gem. **However, note that you cannot use the normal `jekyll serve` command with this gem due to dependency conflicts between the latest version of Jekyll and Github Pages** (which are noted [briefly here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)).
 
