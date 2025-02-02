@@ -1,16 +1,16 @@
 ---
 title: 従来との主な違い
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 16, 2025"
-summary: "If you're not sure whether Jekyll and this theme will support your requirements, this list provides a semi-comprehensive overview of available features."
+last_updated: "Feb 2, 2025"
+summary: "語学講座CS2と従来の語学講座CSの主な違いを説明します"
 published: true
 sidebar: mydoc_sidebar
 permalink: CS_vs_CS2.html
 folder: mydoc
 ---
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
+
 ## 【従来との主な違い】            
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 ### １．ストリーミングの違い            
   * **語学講座CS2：らじる★らじる（聴き逃し）配信のストリーミングに対応**
   * **従来：NHKゴガクの独自配信のストリーミングに対応**
@@ -26,7 +26,7 @@ folder: mydoc
   * **従来：非対応**
 
 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
