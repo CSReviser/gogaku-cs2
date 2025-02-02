@@ -50,11 +50,11 @@ entries:
       output: web, pdf
 
     - title: ストリーミング公開期間
-      url: /mydoc_support.html
+      url: /Streaming_period.html
       output: web, pdf
 
     - title: 対象講座と番組ID一覧
-      url: /mydoc_support.html
+      url: /courses_name.html
       output: web, pdf
 
       subfolders:

@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
-## 【対象講座と番組ＩＤ一覧】  
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: 対象講座と番組ＩＤ一覧
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 2, 2025"
+#summary: "macOS版は動作確認できていない"
+published: true
+sidebar: mydoc_sidebar
+permalink: courses_name.html
+folder: mydoc
+---
+
+## 対象講座と番組ＩＤ一覧  
+
 * **4桁の番組IDは2024/11/26以降使えなくなりました。最新版に更新して10桁のIDを再設定して下さい。**
 
 <style>

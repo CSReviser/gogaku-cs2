@@ -1,7 +1,7 @@
 ---
 title: MacOSユーザの方へ
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 16, 2025"
+last_updated: "Feb 2, 2025"
 summary: "macOS版は動作確認できていない"
 published: true
 sidebar: mydoc_sidebar

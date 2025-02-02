@@ -1,7 +1,7 @@
 ---
 title: Windows版インストール手順
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 16, 2025"
+last_updated: "Feb 2, 2025"
 summary: "Windows版インストール手順"
 published: true
 sidebar: mydoc_sidebar
