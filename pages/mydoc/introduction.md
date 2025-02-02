@@ -1,3 +1,13 @@
+---
+title: 初めての方へ
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 16, 2025"
+summary: "語学講座CS2 は、らじる★らじる(聴き逃し)のストリーミング配信の録音を自動化するためのアプリです。NHKゴガクのサイトで公開されているストリーミングは2020年度に従来の独自方式から、らじる★らじる(聴き逃し)のストリーミングに移行しています。"
+published: true
+sidebar: mydoc_sidebar
+permalink: introduction.html
+folder: mydoc
+---
 ## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
 ## 【初めての方へ】     
 #### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
