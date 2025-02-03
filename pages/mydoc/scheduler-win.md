@@ -1,5 +1,5 @@
 ---
-title: スケジュール録音の設定方法(Ubuntu版：crontab)　 
+title: タスクスケジューラの設定方法(Windows版)
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "Feb 3, 2025"
 #summary: ""
