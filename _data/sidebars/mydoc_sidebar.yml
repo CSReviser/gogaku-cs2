@@ -180,15 +180,15 @@ entries:
     folderitems:
 
     - title: Windows用
-      url: /mydoc_release_notes_50.html
+      url: /images.html#windows
       output: web, pdf
 
     - title: Ubuntu用
-      url: /mydoc_release_notes_50.html
+      url: /images.html#ubuntu
       output: web, pdf
 
     - title: MacOS用
-      url: /mydoc_release_notes_50.html
+      url: /images.html#macos
       output: web, pdf
 
   - title: 既知課題
