@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
-## 【欧州語学講座応用編分離設定】 　　　    
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: 欧州語学講座応用編分離設定
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: koza_separation.html
+folder: mydoc
+---
+
+## 欧州語学講座応用編分離設定　　    
+
 
 **2023年度以前は欧州語学講座「まいにち〇〇語」講座の「初級編」(「入門編」)と「応用編」のらじる★らじる聴き逃し配信は別番組（番組IDが別）となっていましたが、2024年度から一つの番組（一つの番組ID）となりました。従来通り「応用編」を別のフォルダに保管するための設定方法が複数ありますので、用途に合わせて設定してください。2023年度版を使用されていた方は再設定が必要です。**          
 
@@ -19,8 +29,8 @@
        <img src="https://github.com/CSReviser/CaptureStream2/assets/46049273/5261564a-d409-474c-a8e3-c1a976618e80"> 
 
 
-#### ※録音した語学講座のファイルは著作権法で許されている範囲内でご利用ください。          
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)] 
+**※録音した語学講座のファイルは著作権法で許されている範囲内でご利用ください。** 
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

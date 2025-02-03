@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
-## 【コマンドラインオプション】     
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: コマンドラインオプション
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: command_line_option.html
+folder: mydoc
+---
+
+## コマンドラインオプション    
+
 #### 語学講座CS2 は、GUI（グラフィカル・ユーザ・インターフェイス）のアプリケーションですが、GUIを使わないコマンドラインで使うオプションがあります。このオプションは、スケジュール実行させるときに利用できます。
 #### 　　　　
 #### ＜コマンド形式＞
@@ -23,10 +33,7 @@
 #### 　　　　
 #### ※全てのコマンドラインオプションを使用できるのは、2024/08/16版以降です。
 #### ※省略して指定しない<オプション>はGUIで設定した内容となります。GUIで設定していない場合はデフォルト値となります。
-## 　　　　
-## 　　　　
 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)] 
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

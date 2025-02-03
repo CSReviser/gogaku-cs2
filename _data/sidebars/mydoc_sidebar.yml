@@ -79,7 +79,7 @@ entries:
       output: web, pdf
       
     - title: アップデート（更新）
-      url: /macos.html
+      url: /update.html
       output: web, pdf      
 
       subfolders:
@@ -88,19 +88,19 @@ entries:
         subfolderitems:
 
         - title: カスタマイズメニュー
-          url: /install_win.html
+          url: /menu.html
           output: web
 
         - title: 対象講座と番組ID一覧
-          url: /install_linux.html
+          url: /courses_name.html
           output: web
 
         - title: 任意らじる聴き逃し番組設定
-          url: /install_mac.html
+          url: /SETTING_COURSES.html
           output: web
 
         - title: 欧州語学講座応用編分離設定
-          url: /install_win.html
+          url: /koza_separation.html
           output: web
 
         - title: 拡張子の選択
@@ -108,11 +108,11 @@ entries:
           output: web
 
         - title: ［前週］チェックボックス
-          url: /install_mac.html
+          url: /last_week.html
           output: web
 
         - title: サムネイルを付ける
-          url: /install_win.html
+          url: /thumbnail.html
           output: web
 
         - title: ファイル名のカスタマイズ設定
@@ -120,15 +120,15 @@ entries:
           output: web
 
         - title: ffmpegパス設定
-          url: /install_mac.html
+          url: /SETTING_ffmpeg.html
           output: web
 
         - title: タスクスケジューラの設定方法(Windows)
-          url: /install_win.html
+          url: /scheduler-win.html
           output: web
 
         - title: スケージュール録音の設定方法(Ubuntu)
-          url: /install_linux.html
+          url: /scheduler-linux.html
           output: web
 
         - title: コマンド・ライン・オプション

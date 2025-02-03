@@ -1,9 +1,18 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
-### スケジュール録音の設定方法(Ubuntu版：crontab)　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
-#### 　　　　　
-#### crontabを使ったスケジュール録音の設定方法です。
-#### 　　　　　
+---
+title: スケジュール録音の設定方法(Ubuntu版：crontab)　 
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: scheduler-linux.html
+folder: mydoc
+---
+
+## スケジュール録音の設定方法(Ubuntu版：crontab)　　
+　　　
+**crontabを使ったスケジュール録音の設定方法です。**
+
 #### 1. 端末（ターミナル）アプリを起動します。ショートカットキーは『Ctrl+Alt+T』です。
 #### ２. 端末（ターミナル）アプリが起動したら『crontab -e』と入力し、Enterキーを押します。
 　　　![image](https://user-images.githubusercontent.com/46049273/210122453-56e2a086-2bc7-4a40-92a4-1f6cbfa023f0.png)
@@ -24,10 +33,7 @@
 ![image](https://user-images.githubusercontent.com/46049273/210122479-eb459b72-f6e8-4e95-9457-18a17516a870.png)
 
 #### 4. nanoを終了します。『Ctrl+X』と入力します。
-#### 　　　　　
-#### 　　　　　
-#### 　　　　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
-## 【非公式ＱＴ(aqt)インストール＆ビルド手順】　　　　　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: 非公式ＱＴ(aqt)インストール＆ビルド手順
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: aqtinstall.html
+folder: mydoc
+---
+
+## 非公式ＱＴ(aqt)インストール＆ビルド手順　　　　　　
+
 
 **Another Qt installer(aqt)、非公式ＱＴインストール(aqt)手順です。このサイトで提供しているUbuntu版の実行ファイル（バイナリ）は、ＯＳ環境によって動作しないことがあるようです。ここでは環境に合うように、ご自身でビルドして頂く手順の例を示します。ビルドする際に参考にしてお試しください。[【Ubuntu版 qt6インストール手順】](./qt_install)も参考にしてください。**
 
@@ -89,9 +99,6 @@ cp ./qss_files/stylesheet-ubu.qss ~/LinCaptureStream2/
 ```
 **※ ffmpegは実行するCaptureStream2と同じフォルダに置く必要があります。**
 
-####   　
-####   　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

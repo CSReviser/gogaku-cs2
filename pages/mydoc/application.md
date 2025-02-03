@@ -1,6 +1,15 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
+---
+title: 類似アプリ
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: application.html
+folder: mydoc
+--- 
 ## 類似アプリ 　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 **[[初めての方へ]](./introduction)をお読み頂き、新規の方は他の類似アプリの利用をご検討ください。ご利用のアプリの不具合等で、一時的、緊急避難的に利用される方も、元のアプリに戻ることや他のアプリへの移行を並行してご検討ください。特に制限されて利用できない機能をご希望の方は類似アプリをご利用ください。**             
 * **Mac所有者が作成したアプリに「※Mac Owner作成」を追記しました。Macユーザー移行先アプリ選定の参考情報です。**
 * **取り消し線がついているアプリは更新されていず、使えない状態と思われます。更新を確認次第取り消し線を外します。**
@@ -81,9 +90,7 @@
 ##### 	※ 今年度ではなく過去に放送された内容です。
 
 
-#### 　　　　
-#### 　　　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
  <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/46049273?v=4">

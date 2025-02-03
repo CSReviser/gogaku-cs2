@@ -1,7 +1,15 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
+---
+title: 各種設定手順 
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: settings.html
+folder: mydoc
+---
+
 ## 【各種設定手順】　　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
-####   　
 
 * **[カスタマイズメニュー](./menu)** 
 * **[対象講座と番組ID一覧](./courses_name)** 
@@ -16,10 +24,6 @@
 * **[スケージュール録音の設定方法(Ubuntu)](./scheduler-linux)**
 * **[コマンド・ライン・オプション](./command_line_option)**
 
-
-####   　
-####   　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">

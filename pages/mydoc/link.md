@@ -1,5 +1,15 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: Link
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: link.html
+folder: mydoc
+---
+
+
 ## 《NHKゴガク関連サイト》                
 * ### [NHKゴガク](https://www.nhk.or.jp/gogaku/)                 
 * ### [NHKラジオらじる★らじる](https://www.nhk.or.jp/radio/)       
@@ -41,7 +51,7 @@
 * ### [令和５年度「英語教育実施状況調査」概要](https://www.mext.go.jp/content/20240527-mxt_kyoiku01-000035833_1.pdf)
 * ### [各資格・検定試験とCEFRとの対照表](https://www.mext.go.jp/b_menu/shingi/chousa/koutou/091/gijiroku/__icsFiles/afieldfile/2018/07/27/1407616_003.pdf)
 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
