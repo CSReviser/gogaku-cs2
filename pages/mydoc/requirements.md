@@ -29,8 +29,8 @@ folder: mydoc
   * **[NHK 音声再生確認ページ](https://www.nhk.or.jp/radio/soundcheck/)**
  
 
-#### 　　
-#### 　　
+
+　　
 - **サポート対象外：macOS**         
 ##### Macの実機が無く、動作評価ができないのでサポート対象外とします。                        
 ##### Apple Silicon(Mシリーズ)版MacではRosetta2のインストールが必要です。Rosetta2をインストールしない場合にはApple silicon版のffmpegが必要です。
