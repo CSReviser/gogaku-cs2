@@ -1,5 +1,5 @@
 ---
-title: Link
+title: リンク
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "Feb 3, 2025"
 #summary: ""
