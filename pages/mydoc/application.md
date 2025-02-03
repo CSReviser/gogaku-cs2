@@ -16,29 +16,29 @@ folder: mydoc
 
 ***
 ### 《らじる★らじる対応：有償》                           
-* [ネットラジオ録音X2(Windows/macOS)](https://netradio-rokuon.com/?amp)     
+* **[ネットラジオ録音X2(Windows/macOS)](https://netradio-rokuon.com/?amp)**     
     * **[NHKゴガクのラジオ番組を無料で録音する方法](https://netradio-rokuon.com/blog/nhk-gogaku)**
-* [ネットラジオレコーダー]( https://ging.co.jp/product/music/netradio.html)     
-* [ラジ録](http://www.magnolia.co.jp/products/utility/rdorec/13/w/index.htm)  
-* [ネットラジオハンター(2024.06.10付お知らせ)](https://freecs.ne.jp)          
+* **[ネットラジオレコーダー]( https://ging.co.jp/product/music/netradio.html)**     
+* **[ラジ録](http://www.magnolia.co.jp/products/utility/rdorec/13/w/index.htm)**  
+* **[ネットラジオハンター(2024.06.10付お知らせ)](https://freecs.ne.jp)**         
     
 ##### ※ 特定の有償アプリの購入を推奨するものではありません。購入／利用する際はご自身で判断してください。      
 
 ***
 ### 《らじる★らじる対応：無償》          
-* [らじれこ(OS:Windows)](https://dogaradi.123net.jp/dl-radirec/)         
+* **[らじれこ(OS:Windows)](https://dogaradi.123net.jp/dl-radirec/)**         
     * **[らじれこzip版](https://dogaradi.com/dl-radirec-zip/?amp)**       
-* [らじれこ(OS: macOS)](https://dogaradi.123net.jp/dl-radirec-mac/)         
-* [らくらじ2(OS: Android10以上)](https://play.google.com/store/apps/details?id=jp.wity.rakuradi2)                
-* [らくらじ2(OS: iOS)](https://apps.apple.com/jp/app/%E3%82%89%E3%81%8F%E3%82%89%E3%81%98%EF%BC%92/id1625594891?itsct=apps_box_link&itscg=30200)              
-* [rfriends (Windows, Linux, Raspberry Pi OS, macOS,termux対応)](https://rfriends.hatenablog.com/)     [download](http://rfriends.s1009.xrea.com/download.html)     [GitHub](https://github.com/rfriends)              
+* **[らじれこ(OS: macOS)](https://dogaradi.123net.jp/dl-radirec-mac/)**         
+* **[らくらじ2(OS: Android10以上)](https://play.google.com/store/apps/details?id=jp.wity.rakuradi2)**                
+* **[らくらじ2(OS: iOS)](https://apps.apple.com/jp/app/%E3%82%89%E3%81%8F%E3%82%89%E3%81%98%EF%BC%92/id1625594891?itsct=apps_box_link&itscg=30200)**              
+* **[rfriends (Windows, Linux, Raspberry Pi OS, macOS,termux対応)](https://rfriends.hatenablog.com/)     [download](http://rfriends.s1009.xrea.com/download.html)     [GitHub](https://github.com/rfriends)**             
     * **[rfriends3のWebサイトはこちら](https://rfriends.github.io/rfriends/)**
     * **インストール手順**
     * **[macOS](https://rfriends.github.io/rfriends/distro/macos.html)**
     * **[Windows](https://rfriends.github.io/rfriends/distro/windows.html)**
 
-* [インターネットラジオ 「らじるれ郎」 for Windows](https://www.todaproduction.com/soft/rajirurero/)
-* [NHKらじるらじる聞き逃し高速録音ソフト（Windows用）](https://falconblog.org/nhk-radiru-m2hrecorder-r041/)
+* **[インターネットラジオ 「らじるれ郎」 for Windows](https://www.todaproduction.com/soft/rajirurero/)**
+* **[NHKらじるらじる聞き逃し高速録音ソフト（Windows用）](https://falconblog.org/nhk-radiru-m2hrecorder-r041/)**
 
 ***
 ### 《NHKゴガク専用》          
@@ -56,14 +56,14 @@ folder: mydoc
    
 ***    
 ### [《NHKゴガク　公式アプリ》](https://www2.nhk.or.jp/gogaku/app/)         
-* [OS:Android](https://play.google.com/store/apps/details?id=jp.or.nhk.gogaku)       
-* [OS:iOS](https://apps.apple.com/jp/app/id1039263781)
-**※ 放送翌週月曜日から１週間ストリーミング配信**
-**※ 録音はできません。**
+* **[OS:Android](https://play.google.com/store/apps/details?id=jp.or.nhk.gogaku)**       
+* **[OS:iOS](https://apps.apple.com/jp/app/id1039263781)**             
+    * **※ 放送翌週月曜日から１週間ストリーミング配信**             
+    * **※ 録音はできません。**
 
 ### [《らじる★らじる公式アプリ》](https://www.nhk.or.jp/radio/info/app.html)         
-* [OS:Android](https://play.google.com/store/apps/details?id=jp.nhk.netradio)       
-* [OS:iOS](http://itunes.apple.com/jp/app/id473937342?mt=8)             
+* **[OS:Android](https://play.google.com/store/apps/details?id=jp.nhk.netradio)**       
+* **[OS:iOS](http://itunes.apple.com/jp/app/id473937342?mt=8)**             
 ##### 	※ 放送と同時にストリーミング配信
 ##### 	※ 放送後１週間ストリーミング配信
 ##### 	※ 録音はできません。   
