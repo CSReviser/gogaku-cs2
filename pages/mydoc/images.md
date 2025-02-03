@@ -8,7 +8,6 @@ sidebar: mydoc_sidebar
 permalink: images.html
 folder: mydoc
 ---
-## イメージ
 ### ［Windows版］
 <img src="https://github.com/CSReviser/CaptureStream/assets/46049273/630baada-27f1-4984-a6ce-3f2bc6349be4" width="350"> 
 
