@@ -1,5 +1,5 @@
 ---
-title: 制限事項
+title: 必要要件
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "Feb 2, 2025"
 #summary: "語学講座CS2 は、らじる★らじる(聴き逃し)のストリーミング配信の録音を自動化するためのアプリです。NHKゴガクのサイトで公開されているストリーミングは2020年度に従来の独自方式から、らじる★らじる(聴き逃し)のストリーミングに移行しています。"
