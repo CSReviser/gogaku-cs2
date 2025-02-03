@@ -196,19 +196,19 @@ entries:
     folderitems:
 
     - title: 全OS共通
-      url: /issue.html.html
+      url: /issue.html
       output: web, pdf
 
     - title: Windows関係
-      url: /issue.html.html#windows関係
+      url: /issue.html#windows関係
       output: web, pdf
 
     - title: Ubuntu関係
-      url: /issue.html.html#ubuntu関係
+      url: /issue.html#ubuntu関係
       output: web, pdf
 
     - title: MacOS関係
-      url: /issue.html.html#macos関係
+      url: /issue.html#macos関係
       output: web, pdf
 
   - title: Release Notes
