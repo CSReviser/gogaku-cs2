@@ -132,27 +132,27 @@ entries:
           output: web
 
         - title: コマンド・ライン・オプション
-          url: /install_mac.html
+          url: /command_line_option.html
           output: web
 
     - title: FAQ（よくある質問）
-      url: /macos.html
+      url: /FAQ.html
       output: web, pdf
 
     - title: トラブルシューティング
-      url: /macos.html
+      url: /troubleshooting.html
       output: web, pdf
 
     - title: ffmpeg最新版入手サイト
-      url: /macos.html
+      url: /FFMPEG.html
       output: web, pdf
 
     - title: 類似アプリ
-      url: /macos.html
+      url: /application.html
       output: web, pdf
 
-    - title: リンク）
-      url: /macos.html
+    - title: リンク
+      url: /link.html
       output: web, pdf
 
   - title: Download
@@ -196,19 +196,19 @@ entries:
     folderitems:
 
     - title: 全OS共通
-      url: /mydoc_release_notes_50.html
+      url: /issue.html.html
       output: web, pdf
 
     - title: Windows関係
-      url: /mydoc_release_notes_50.html
+      url: /issue.html.html#windows関係
       output: web, pdf
 
     - title: Ubuntu関係
-      url: /mydoc_release_notes_50.html
+      url: /issue.html.html#ubuntu関係
       output: web, pdf
 
     - title: MacOS関係
-      url: /mydoc_release_notes_50.html
+      url: /issue.html.html#macos関係
       output: web, pdf
 
   - title: Release Notes
