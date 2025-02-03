@@ -42,16 +42,16 @@ folder: mydoc
 
 ***
 ### 《NHKゴガク専用》          
-* [○○○.hta改造版(NHK.htaの改造版)(OS:Windows)](https://wiki3.jp/dawngo)
-* [語学ドロイド(OS:Android)](https://play.google.com/store/apps/details?id=com.github.naofum.gogakudroid&hl=ja)    [github](https://github.com/naofum/GogakuDroid)
-* [「radirudegogaku0.rb」NHK語学講座のラジオ番組ストリーミングを取得するRubyスクリプト(OS:macOS/Windows/Linux) ※Mac Owner作成](https://riocampos-tech.hatenablog.com/entry/20200402/radirudegogaku)                    
-* [radio-gogaku-downloader(Python 3.xの走る環境)](https://github.com/ikakunsan/radio-gogaku-downloader)           
-* [習作ダウンローダー1号(Rubyが動作する環境)](https://wiki3.jp/NHKdl_rb)           
-* [NHKラジオ語学講座のストリーミングデータをMP3形式で自動ダウンロードする(JSONフォーマット対応版) ※Mac Owner作成](https://simplelife.pgw.jp/it/nhk_radio_gogaku_kouza_json/) 
+* **[○○○.hta改造版(NHK.htaの改造版)(OS:Windows)](https://wiki3.jp/dawngo)**
+* **[語学ドロイド(OS:Android)](https://play.google.com/store/apps/details?id=com.github.naofum.gogakudroid&hl=ja)    [github](https://github.com/naofum/GogakuDroid)**
+* **[「radirudegogaku0.rb」NHK語学講座のラジオ番組ストリーミングを取得するRubyスクリプト(OS:macOS/Windows/Linux) ※Mac Owner作成](https://riocampos-tech.hatenablog.com/entry/20200402/radirudegogaku)**                  
+* **[radio-gogaku-downloader(Python 3.xの走る環境)](https://github.com/ikakunsan/radio-gogaku-downloader)**        
+* **[習作ダウンローダー1号(Rubyが動作する環境)](https://wiki3.jp/NHKdl_rb)**         
+* **[NHKラジオ語学講座のストリーミングデータをMP3形式で自動ダウンロードする(JSONフォーマット対応版) ※Mac Owner作成](https://simplelife.pgw.jp/it/nhk_radio_gogaku_kouza_json/)**
 
-* [~~FFU(Fork For ubuntu)(OS:Ubuntu)~~](https://ja.osdn.net/users/kdrama_fansub/pf/FFU/wiki/FrontPage)         
-* [~~NHK_hta(OS:Windows)~~](https://wiki3.jp/NHK_hta)  [代替アプリ: ○○○.hta改造版(NHK.htaの改造版)(OS:Windows)](https://wiki3.jp/dawngo)           
-* [~~ラジリンガル(OS:Windows/Macintosh)~~](http://www.radilingual.com/)    [~~ブログ~~](https://www.radilingual.com/blog/)      
+* **[~~FFU(Fork For ubuntu)(OS:Ubuntu)~~](https://ja.osdn.net/users/kdrama_fansub/pf/FFU/wiki/FrontPage)**         
+* **[~~NHK_hta(OS:Windows)~~](https://wiki3.jp/NHK_hta)  [代替アプリ: ○○○.hta改造版(NHK.htaの改造版)(OS:Windows)](https://wiki3.jp/dawngo)**           
+* **[~~ラジリンガル(OS:Windows/Macintosh)~~](http://www.radilingual.com/)    [~~ブログ~~](https://www.radilingual.com/blog/)**      
            
    
 ***    
@@ -69,25 +69,25 @@ folder: mydoc
 ##### 	※ 録音はできません。   
 
 ### [《語学プレーヤー　公式アプリ》](https://www.nhk-book.co.jp/pr/app/lang_player/)         
-* #### [OS:Android](https://play.google.com/store/apps/details?id=jp.co.nhkbook.gogakuplayer)       
-* #### [OS:iOS](https://apps.apple.com/jp/app/id420342384?ign-mpt=uo%3D4)             
-##### 	※ 購入した「NHK語学」の音声を再生するアプリです。録音はできません。   
+* **[OS:Android](https://play.google.com/store/apps/details?id=jp.co.nhkbook.gogakuplayer)**      
+* **[OS:iOS](https://apps.apple.com/jp/app/id420342384?ign-mpt=uo%3D4)**             
+    * **※ 購入した「NHK語学」の音声を再生するアプリです。録音はできません。**   
 
-#### ＜2024年度＞
+**＜2024年度＞**
 * [2024 年度『ＮＨＫ語学音声教材』 一部販売休止のお知らせ](https://news.nhk-book.co.jp/archives/25240)
 * [【重要】2024年度版NHK語学の配信について](https://dls.nhk-fdn.or.jp/user_data/2024gokaku) 
 
-#### ＜2025年度＞
+**＜2025年度＞**
 * [2025年度　『ＮＨＫ語学テキスト音声』発売のご案内](https://news.nhk-book.co.jp/archives/28185)
 * [重要：2025年度ＮＨＫ語学の配信について](https://dls.nhk-fdn.or.jp/user_data/2025gogaku) 
 
 
 
 ### [《ポケット語学　公式有料サービス》](https://pocket-gogaku.jp)         
-* [OS:Android](https://play.google.com/store/apps/details?id=jp.pocket_gogaku)       
-* [OS:iOS](https://nhktext.jp/pg0006)             
-##### 	※ 有料のサービスです。
-##### 	※ 今年度ではなく過去に放送された内容です。
+* **[OS:Android](https://play.google.com/store/apps/details?id=jp.pocket_gogaku)**     
+* **[OS:iOS](https://nhktext.jp/pg0006)**             
+    * **※ 有料のサービスです。**             
+    * **※ 今年度ではなく過去に放送された内容です。**
 
 
 
