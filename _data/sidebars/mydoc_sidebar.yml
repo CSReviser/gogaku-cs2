@@ -179,16 +179,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Windows用
-      url: /images.html#windows
+    - title: Windows版
+      url: /images.html#windows版
       output: web, pdf
 
-    - title: Ubuntu用
-      url: /images.html#ubuntu
+    - title: Ubuntu版
+      url: /images.html#ubuntu版
       output: web, pdf
 
-    - title: MacOS用
-      url: /images.html#macos
+    - title: MacOS版
+      url: /images.html#macos版
       output: web, pdf
 
   - title: 既知課題
