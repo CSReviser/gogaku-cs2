@@ -160,19 +160,19 @@ entries:
     folderitems:
 
     - title: Release notes
-      url: /mydoc_release_notes_60.html
+      url: /download.html#
       output: web, pdf
 
     - title: Windows用
-      url: /mydoc_release_notes_50.html
+      url: /download.html#windows用
       output: web, pdf
 
     - title: Ubuntu用
-      url: /mydoc_release_notes_50.html
+      url: /download.html#ubumtu用
       output: web, pdf
 
     - title: MacOS用
-      url: /mydoc_release_notes_50.html
+      url: /download.html#macos用
       output: web, pdf
 
   - title: イメージ
