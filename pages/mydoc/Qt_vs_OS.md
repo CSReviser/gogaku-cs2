@@ -1,13 +1,21 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
-## 【QtとOSの対応】     
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
-#### 語学講座ＣＳ２が採用している開発環境ＱｔのバージョンとＯＳとの対応の覚書です。環境を準備して実行ファイルをビルドすれば[必要要件](./requirements)に記載以外のOSでも動作する可能性があります。
-####                  　　　　　　　　
+---
+title: QtとOSの対応
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: Qt_vs_OS.html
+folder: mydoc
+---
+
+**語学講座ＣＳ２が採用している開発環境ＱｔのバージョンとＯＳとの対応の覚書です。環境を準備して実行ファイルをビルドすれば[必要要件](./requirements)に記載以外のOSでも動作する可能性があります。**
+#####                  　　　　　　　　
 
 
 * **【語学講座ＣＳ2】：**     
     * **Qt6.5LTS以降　（2024年6月現在）**
-####                  　　　　　　　　
+#####                  　　　　　　　　
 
 
 ### ＜Windows＞
@@ -33,7 +41,7 @@
 
 
 
-####                  　　　　　　　　
+#####                  　　　　　　　　
 
 ### ＜Ubuntu＞
 * **[Qt5.15LTS ：](https://doc.qt.io/qt-5/linux.html) Ubuntu 18.04 / 20.04**
@@ -57,8 +65,8 @@
 {: .tablelines}
 
 
-####                  　　　　　　　　
-####                  　　　　　　　　
+#####                  　　　　　　　　
+#####                  　　　　　　　　
 
         
 ### ＜macOS＞
@@ -88,19 +96,13 @@
 
 * **Intel、Apple Silicon両方対応。**
 
-####                  　　　　　　　　
-####                  　　　　　　　　
+#####                  　　　　　　　　
+#####                  　　　　　　　　
 
 
 
 
-
-
-
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
-
-
-
+***
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
  <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/CSReviser/CaptureStream2/master/icon.ico">
  <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/46049273?v=4">
