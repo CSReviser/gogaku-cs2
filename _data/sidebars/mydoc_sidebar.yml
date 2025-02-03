@@ -160,7 +160,7 @@ entries:
     folderitems:
 
     - title: Release notes
-      url: /download.html#
+      url: /download.html#実行ファイル
       output: web, pdf
 
     - title: Windows用
