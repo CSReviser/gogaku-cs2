@@ -1,7 +1,17 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/)  
-## 【拡張子の選択】 　　　   
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
-#### 語学講座ＣＳ２では録音するファイルの拡張子を「m4a」「mp3」「aac」の３種類から選択できます。「mp3」は更に７種類の録音するファイルの条件から１つを選択できます。
+---
+title: 拡張子の選択
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: SETTING_extension.html
+folder: mydoc
+---
+ 
+## 拡張子の選択　　　   
+
+**語学講座ＣＳ２では録音するファイルの拡張子を「m4a」「mp3」「aac」の３種類から選択できます。「mp3」は更に７種類の録音するファイルの条件から１つを選択できます。**
 
 　　　　　　![image](https://user-images.githubusercontent.com/46049273/206852345-3dd5b52d-e5de-4b52-b15c-8afa2f173fb0.png)
 
@@ -27,12 +37,7 @@
 
 #### 3. aac：
 #### ストリーミングのコーディックは現在「aac」で配信されています。コンテナーに格納されていない、素の「aac」ファイルがほしいときに選択しますが、通常は選択しません。
-#### 　　　　　　        
-#### 　　　　　　        
 
-
-
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
