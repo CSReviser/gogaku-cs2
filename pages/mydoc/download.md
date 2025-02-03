@@ -5,7 +5,7 @@ last_updated: "Feb 3, 2025"
 #summary: "Ubuntu版インストール(ビルド)手順"
 published: true
 sidebar: mydoc_sidebar
-permalink: install_linux.html
+permalink: download.html
 folder: mydoc
 ---
 ## 実行ファイル
