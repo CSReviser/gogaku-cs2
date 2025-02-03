@@ -9,13 +9,11 @@ permalink: requirements.html
 folder: mydoc
 ---
 
-## 【必要要件】　　　　　
-
 - **対応ＯＳ:**            
   * **Windows10 (64bit版)**                       
   * **Windows11**                       
   * **Ubuntu22.04LTS**                      
-- #### Ｑｔ : Qt6.5LTS以降　[[QtとOSの対応](./Qt_vs_OS)]                   
+- **Ｑｔ : Qt6.5LTS以降　[[QtとOSの対応](./Qt_vs_OS)]**                   
 - **必須ファイル：ffmpeg**                            
   **※ffmpegはご利用OS環境にあったファイルをご用意ください。**                                
   * **[Windows向けffmpeg](https://www.gyan.dev/ffmpeg/builds/)**             
@@ -33,14 +31,14 @@ folder: mydoc
 
 #### 　　
 #### 　　
-- #### サポート対象外：macOS             
-#### Macの実機が無く、動作評価ができないのでサポート対象外とします。                        
-#### Apple Silicon(Mシリーズ)版MacではRosetta2のインストールが必要です。Rosetta2をインストールしない場合にはApple silicon版のffmpegが必要です。
+- **サポート対象外：macOS**         
+##### Macの実機が無く、動作評価ができないのでサポート対象外とします。                        
+##### Apple Silicon(Mシリーズ)版MacではRosetta2のインストールが必要です。Rosetta2をインストールしない場合にはApple silicon版のffmpegが必要です。
 **[Mac に Rosetta をインストールする必要がある場合](https://support.apple.com/ja-jp/102527)**      
 **[AppleSilicon版ffmpegインストール手順](https://csreviser.github.io/CaptureStream2/install_mac_ffmpeg)**
-#### GitHubのactions機能を使って、macos-14でバイナリをビルドしています。                 
-#### Macユーザーのご協力により動作確認が出来ているバージョンがあります。Mac版はMacユーザーの互助でのサポートを期待します。          
-#### 情報提供いただければ、可能な限り対応いたします。建設的なご意見やご要望については検討いたしますが、単なる不平や苦情はご遠慮ください。                        
+##### GitHubのactions機能を使って、macos-14でバイナリをビルドしています。                 
+##### Macユーザーのご協力により動作確認が出来ているバージョンがあります。Mac版はMacユーザーの互助でのサポートを期待します。          
+##### 情報提供いただければ、可能な限り対応いたします。建設的なご意見やご要望については検討いたしますが、単なる不平や苦情はご遠慮ください。                        
 
 **Macユーザーからの報告例（参考）**            
   - **macOS Ventura 13.7.1 M1機**
