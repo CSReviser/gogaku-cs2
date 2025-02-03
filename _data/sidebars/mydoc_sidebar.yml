@@ -104,7 +104,7 @@ entries:
           output: web
 
         - title: 拡張子の選択
-          url: /install_linux.html
+          url: /SETTING_extension.html
           output: web
 
         - title: ［前週］チェックボックス

@@ -1,5 +1,5 @@
 ---
-title: 非公式ＱＴ(aqt)インストール＆ビルド手順
+title: ffmpegパス設定
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "Feb 3, 2025"
 #summary: ""
@@ -9,7 +9,7 @@ permalink: SETTING_ffmpeg.html
 folder: mydoc
 ---
 
-## 【ffmpegパス設定】 　　　   
+## ffmpegパス設定 　　　   
 
 **語学講座ＣＳ２では通常初期値のままで使用することができますが、一部の環境でffmpegが正常に動作しない場合があります。正常に動作するffmpegをインストールしてそのパス（ffmpegをインストールしたフォルダ）を設定することができます**。
 **メインウィンドウ上部　カスタマイズ > ffmpegパス設定 を選択すると下記が表示されます。**
