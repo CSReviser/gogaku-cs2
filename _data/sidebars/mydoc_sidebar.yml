@@ -116,7 +116,7 @@ entries:
           output: web
 
         - title: ファイル名のカスタマイズ設定
-          url: /install_linux.html
+          url: /file_name.html
           output: web
 
         - title: ffmpegパス設定
