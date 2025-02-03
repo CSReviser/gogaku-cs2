@@ -9,9 +9,6 @@ permalink: limitations.html
 folder: mydoc
 ---
 
-## 制限事項 
-
-
 - **※録音した語学講座のファイルは著作権法で許されている範囲内でご利用ください。**
 - **オリジナル作者による更新ではありません。改版者が自分で使用する目的で個人的に改版したものを公開しています。改版者はqt、C、C++、Rubyをはじめプログラムは素人です。更新可能な内容には限界があります。[こちらのページ](https://csreviser.github.io/CaptureStream2/application)もご覧下さい。**
     > ##### 作者  
