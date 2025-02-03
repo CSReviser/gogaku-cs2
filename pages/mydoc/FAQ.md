@@ -1,6 +1,16 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
+---
+title: FAQ（よくある質問）
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 3, 2025"
+#summary: ""
+published: true
+sidebar: mydoc_sidebar
+permalink: FAQ.html
+folder: mydoc
+---
+
 ## FAQ（よくある質問）　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+
 ####   　
 * **[全OS共通](./FAQ#全os共通)**
 * **[Windows](./FAQ#windows)**
@@ -154,9 +164,6 @@
 *** 
 
 
-####   　
-####   　
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
