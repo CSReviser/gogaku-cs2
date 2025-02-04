@@ -1,7 +1,7 @@
 ---
 title: トラブルシューティング
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
@@ -9,7 +9,6 @@ permalink: troubleshooting.html
 folder: mydoc
 ---
 
-## トラブルシューティング　
 　
 1. **初めて使おうとして動作しない場合**
    * **[初めての方へ](./introduction)**
