@@ -1,9 +1,14 @@
-## [語学講座CS2](https://csreviser.github.io/CaptureStream2/) 
-#### ［[ＴＯＰ](./)**｜**[目次](./#目次)**｜**[ドキュメント](./#ドキュメント-1)]
+---
+title: 英語多聴・多読関連リンク（参考情報）
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "Feb 4, 2025"
+#summary: "Ubuntu版インストール(ビルド)手順"
+published: true
+sidebar: mydoc_sidebar
+permalink: extensive_reading.html
+folder: mydoc
+---
 
-***
-## 英語多聴・多読関連リンク（参考情報）
-***
 ## [《日本多読学会 / Japan Extensive Reading Association》](https://jera-tadoku.jp/)                
 * **[多読指導ガイド](https://jera-tadoku.jp/ER_Teaching_Guide-20200125.pdf)**                 
 * **[多読図書YL・語数リスト（ブックリスト）第4版ブックリスト2024.3](https://jera-tadoku.jp/Booklist.2024.3.pdf)**       
