@@ -1,7 +1,7 @@
 ---
 title: FAQ（よくある質問）
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
@@ -9,15 +9,6 @@ permalink: FAQ.html
 folder: mydoc
 ---
 
-## FAQ（よくある質問）　
-
-####   　
-* **[全OS共通](./FAQ#全os共通)**
-* **[Windows](./FAQ#windows)**
-* **[ubuntu](./FAQ#ubuntu)**
-* **[macOS](./FAQ#macos)**
-* **[その他](./FAQ#その他)**
-####   　
 **[トラブルシューティング](./troubleshooting)および[TOPページ](./index)の[＜既知課題＞](./#%E6%97%A2%E7%9F%A5%E8%AA%B2%E9%A1%8C-1)もご確認ください。**
 
 *** 
