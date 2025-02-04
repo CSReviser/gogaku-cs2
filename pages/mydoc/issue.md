@@ -1,14 +1,13 @@
 ---
 title: 既知課題
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
 permalink: issue.html
 folder: mydoc
 ---
-## 既知課題         
 **※ 2025/01/24現在、不具合は確認していません。**
 
 ### 次回更新時適用予定：
