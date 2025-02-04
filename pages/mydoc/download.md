@@ -9,11 +9,10 @@ permalink: download.html
 folder: mydoc
 ---
 {% include warning.html content="**このサイトで提供している実行ファイルにはデジタル署名がないため、OSによって警告が表示される場合があります。悪意のあるコードは含まれておりませんが、不安のある方は使用をお控えください。**" %}
-{% include note.html content="**ソースコードを公開していますので、ご自身で実行ファイルをビルドすることも可能です。ただし、ビルドした場合でもセキュリティ警告が完全に回避される保証はありません。**" %}
+{% include note.html content="**ソースコードを公開していますので、ご自身で実行ファイルをビルドすることも可能です。ただし、ビルドした場合でもセキュリティ警告が完全に回避される保証はありません。[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**" %}
 
 
-**[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**      
-
+**[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**
 
 ## **[2024/10/07版リリースノート（ブログ）](https://csreviser.github.io/CS2-blog/2024/10/07/)**
 ### Windows用
@@ -28,6 +27,7 @@ folder: mydoc
 
 ### MacOS用
 **[【MacOSユーザの方へ】](https://csreviser.github.io/CaptureStream2/macos)**
+{% include warning.html content="**Mac版は実行ファイルのトップページ掲載を見合わせています。[【MacOSユーザの方へ】](./macos)、[FAQ](./FAQ#macos)および[【必要要件】](./requirements)をご確認頂き、リスクをご理解の上、自己責任で自己解決出来る方のみご利用ください。**" %}
 * **Mac版は実行ファイルのトップページ掲載を見合わせています。[【MacOSユーザの方へ】](./macos)、[FAQ](./FAQ#macos)および[【必要要件】](./requirements)をご確認頂き、リスクをご理解の上、自己責任で自己解決出来る方のみご利用ください。**  
   * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/24)を作成しました。**
 
