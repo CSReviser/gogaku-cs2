@@ -12,8 +12,6 @@ folder: mydoc
 {% include note.html content="**ソースコードを公開していますので、ご自身で実行ファイルをビルドすることも可能です。ただし、ビルドした場合でもセキュリティ警告が完全に回避される保証はありません。[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**" %}
 
 
-**[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**
-
 ## **[2024/10/07版リリースノート（ブログ）](https://csreviser.github.io/CS2-blog/2024/10/07/)**
 ### Windows用
 * **[CaptureStream2-Windows-x64-20241007.zip 【64bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-Windows-x64-20241007.zip)**  
@@ -28,10 +26,11 @@ folder: mydoc
 ### MacOS用
 **[【MacOSユーザの方へ】](https://csreviser.github.io/CaptureStream2/macos)**
 {% include warning.html content="**Mac版は実行ファイルのトップページ掲載を見合わせています。[【MacOSユーザの方へ】](./macos)、[FAQ](./FAQ#macos)および[【必要要件】](./requirements)をご確認頂き、リスクをご理解の上、自己責任で自己解決出来る方のみご利用ください。**" %}
-* **Mac版は実行ファイルのトップページ掲載を見合わせています。[【MacOSユーザの方へ】](./macos)、[FAQ](./FAQ#macos)および[【必要要件】](./requirements)をご確認頂き、リスクをご理解の上、自己責任で自己解決出来る方のみご利用ください。**  
-  * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/24)を作成しました。**
 
-**※バグ報告などは[こちら](https://github.com/CSReviser/CaptureStream2/discussions/23)に投稿してください。**
+  * **Macユーザー間の情報交換の場として[こちらに【macOS関係の情報交換】](https://github.com/CSReviser/CaptureStream2/discussions/24)を作成しました。**
+#####
+#####
+## **※バグ報告などは[こちら](https://github.com/CSReviser/CaptureStream2/discussions/23)に投稿してください。**
 
 *** 
  <link rel="shortcut icon" type="image/x-icon" href="https://avatars.githubusercontent.com/u/46049273?v=4">
