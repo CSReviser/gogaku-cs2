@@ -15,7 +15,7 @@ folder: mydoc
 **[インストール手順はこちらから使用するOSに合った手順をお選びください。](./install)**      
 
 
-##**[2024/10/07版リリースノート（ブログ）](https://csreviser.github.io/CS2-blog/2024/10/07/)**
+## **[2024/10/07版リリースノート（ブログ）](https://csreviser.github.io/CS2-blog/2024/10/07/)**
 ### Windows用
 * **[CaptureStream2-Windows-x64-20241007.zip 【64bit版】](https://github.com/CSReviser/CaptureStream2/releases/download/20241007/CaptureStream2-Windows-x64-20241007.zip)**  
  * **※Windows用32bit版は[2024/10/07版リリースノート（ブログ）](https://csreviser.github.io/CS2-blog/2024/10/07)にリンクがあります。**
