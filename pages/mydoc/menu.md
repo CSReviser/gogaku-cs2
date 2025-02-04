@@ -1,15 +1,14 @@
 ---
 title: カスタマイズメニュー
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
 permalink: menu.html
 folder: mydoc
 ---
-
-## カスタマイズメニュー      
+  
 
 ![image](https://github.com/user-attachments/assets/7f7bea0c-0f09-4917-8791-2487ad7c8a64)
 

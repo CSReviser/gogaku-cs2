@@ -1,29 +1,27 @@
 ---
 title: ffmpegパス設定
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
-#summary: ""
+last_updated: "Feb 4, 2025"
+summary: "語学講座ＣＳ２では通常初期値のままで使用することができますが、一部の環境でffmpegが正常に動作しない場合があります。正常に動作するffmpegをインストールしてそのパス（ffmpegをインストールしたフォルダ）を設定することができます。"
 published: true
 sidebar: mydoc_sidebar
 permalink: SETTING_ffmpeg.html
 folder: mydoc
 ---
 
-## ffmpegパス設定 　　　   
-
-**語学講座ＣＳ２では通常初期値のままで使用することができますが、一部の環境でffmpegが正常に動作しない場合があります。正常に動作するffmpegをインストールしてそのパス（ffmpegをインストールしたフォルダ）を設定することができます**。
+**語学講座ＣＳ２では通常初期値のままで使用することができますが、一部の環境でffmpegが正常に動作しない場合があります。正常に動作するffmpegをインストールしてそのパス（ffmpegをインストールしたフォルダ）を設定することができます。**
 **メインウィンドウ上部　カスタマイズ > ffmpegパス設定 を選択すると下記が表示されます。**
 
 　　　　　　![image](https://github.com/user-attachments/assets/698092a5-f7d7-4aef-9801-623aa3e4e2b7)
 
 #### 1. 設定する：
-#### ffmpegをインストールしたフォルダを設定します。
-#### この設定をした場合は設定したフォルダのffmpegが使われます。指定したフォルダにffmpegが存在しない場合や存在しても動作しない場合はレコーディング実行時にエラーとなります。
-#### 　　　　
+##### ffmpegをインストールしたフォルダを設定します。
+##### この設定をした場合は設定したフォルダのffmpegが使われます。指定したフォルダにffmpegが存在しない場合や存在しても動作しない場合はレコーディング実行時にエラーとなります。
+##### 　　　　
 
 
 #### 2. 初期値に戻す：
-#### 語学講座CS2の本体があるフォルダにあるffmpegが使われます。 語学講座CS2の本体があるフォルダにあるffmpegを正常に動作するものに置き換えることにより動作不具合を解消することもできます。OSによって以下のように動作仕様が異なります。ご使用のOSによって読み替えてください。            
+##### 語学講座CS2の本体があるフォルダにあるffmpegが使われます。 語学講座CS2の本体があるフォルダにあるffmpegを正常に動作するものに置き換えることにより動作不具合を解消することもできます。OSによって以下のように動作仕様が異なります。ご使用のOSによって読み替えてください。            
 * **Windows：語学講座CS2の本体（CaptureStream2.exe）と同じフォルダにあるffmpeg.exeが使われます。**          
 * **Ubuntu：語学講座CS2の本体（CaptureStream2）と同じフォルダにあるffmpegが使われます。**          
 * **macOS：下記の優先順位で存在するffmpegが使われます。**           
