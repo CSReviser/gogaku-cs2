@@ -4,7 +4,7 @@ keywords: 語学講座CS2
 tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: **語学講座CS2は、NHKラジオ語学講座の「らじる★らじる」（聴き逃し）ストリーミング配信を自動録音するためのアプリです。**
+summary: 語学講座CS2は、NHKラジオ語学講座の「らじる★らじる」（聴き逃し）ストリーミング配信を自動録音するためのアプリです。
 ---
 
 {% include note.html content="**語学講座の録音にはffmpegを利用します。 開発が中断している https://osdn.net/projects/capturestream/ の派生版です。 正式に開発を引き継いでいるものではありません。**" %}
