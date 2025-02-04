@@ -1,16 +1,13 @@
 ---
 title: 欧州語学講座応用編分離設定
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
 permalink: koza_separation.html
 folder: mydoc
 ---
-
-## 欧州語学講座応用編分離設定　　    
-
 
 **2023年度以前は欧州語学講座「まいにち〇〇語」講座の「初級編」(「入門編」)と「応用編」のらじる★らじる聴き逃し配信は別番組（番組IDが別）となっていましたが、2024年度から一つの番組（一つの番組ID）となりました。従来通り「応用編」を別のフォルダに保管するための設定方法が複数ありますので、用途に合わせて設定してください。2023年度版を使用されていた方は再設定が必要です。**          
 
