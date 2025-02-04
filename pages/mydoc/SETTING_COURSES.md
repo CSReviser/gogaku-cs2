@@ -1,31 +1,27 @@
 ---
 title: 任意らじる聴き逃し番組設定
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "Feb 3, 2025"
+last_updated: "Feb 4, 2025"
 #summary: ""
 published: true
 sidebar: mydoc_sidebar
 permalink: SETTING_COURSES.html
 folder: mydoc
 ---
+**語学講座ＣＳ２では、講座ボタンにあらかじめ設定されていない語学講座を利用するためには、希望する語学講座の番組ＩＤを入力し、「任意らじる聴き逃し番組」ボタンの設定が必要です。**　　　　　　　
 
-## 任意らじる聴き逃し番組設定　　　　　
-        
-
-**語学講座ＣＳ２では、講座ボタンにあらかじめ設定されていない語学講座を利用するためには、希望する語学講座の番組ＩＤを入力し、「任意らじる聴き逃し番組」ボタンの設定が必要です。 **　　　　　　　
-
-1. #### カスタマイズメニューで「任意番組設定...」をクリックします。            
+### 1.　カスタマイズメニューで「任意番組設定...」をクリックします。            
 　　<img src="https://github.com/user-attachments/assets/aecbe48a-c184-4a6b-93b3-9c3d0a9a415e" border="1">
-## 　　　　　  
+#####  　　　　　  
 
 
 
 
   
-2. #### 「番組ＩＤ設定」が開くので、英数字１０桁＋「_01」の番組ＩＤを入力します。番組ＩＤは最大８番組まで設定できます。7種類のプリセットが準備されていますので、選択することで番組ＩＤの入力を省略できます。番組IDの入力、またはプリセットを選択後「確認」ボタンをクリックします。番組名が表示されますので、希望の番組であることを確認後「ＯＫ」ボタンをクリックします。番組ＩＤは[こちら](https://csreviser.github.io/CaptureStream2/courses_name)から選びます。    
+### 2.　「番組ＩＤ設定」が開くので、英数字１０桁＋「_01」の番組ＩＤを入力します。番組ＩＤは最大８番組まで設定できます。7種類のプリセットが準備されていますので、選択することで番組ＩＤの入力を省略できます。番組IDの入力、またはプリセットを選択後「確認」ボタンをクリックします。番組名が表示されますので、希望の番組であることを確認後「ＯＫ」ボタンをクリックします。番組ＩＤは[こちら](https://csreviser.github.io/CaptureStream2/courses_name)から選びます。    
 　　![image](https://github.com/user-attachments/assets/a764dc32-656a-4464-9d09-5303c767f5fb)
 
-## 　　　　　　  
+#####  　　　　　　  
 **プリセット(2024/09/03版)**       
 * **○欧州（仏、独、伊、西）**       
   * **まいにちフランス語 入門編**           
