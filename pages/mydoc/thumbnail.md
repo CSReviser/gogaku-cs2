@@ -9,7 +9,7 @@ permalink: thumbnail.html
 folder: mydoc
 ---
 　　　          　　　　　　           
-<img src="https://github.com/user-attachments/assets/d957036f-10ea-4717-8de3-7ee35e5f2b74">
+<img src="https://github.com/user-attachments/assets/d957036f-10ea-4717-8de3-7ee35e5f2b74">       
 #####
 **「サムネ付」のチェックボックスにチェックが入っている場合は、録音されるファイルにサムネイルが付きます。**
 **この機能は拡張子「m4a」「mp3」の場合に機能します。「aac」にはサムネイルは付きません。**
