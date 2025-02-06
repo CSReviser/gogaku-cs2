@@ -91,10 +91,6 @@ entries:
           url: /menu.html
           output: web
 
-        - title: 対象講座と番組ID一覧
-          url: /courses_name.html
-          output: web
-
         - title: 任意らじる聴き逃し番組設定
           url: /SETTING_COURSES.html
           output: web
