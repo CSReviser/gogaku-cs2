@@ -8,8 +8,8 @@ summary: 語学講座CS2は、NHKラジオ語学講座の「らじる★らじ�
 ---
 {% include note.html content="**語学講座の録音にはffmpegを利用します。 開発が中断している https://osdn.net/projects/capturestream/ の派生版です。 正式に開発を引き継いでいるものではありません。**" %}
 {% include warning.html content="**録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。**" %}
-{% include important.html content="**\録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。**" %}
-{% include tip.html content="**\録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。**" %}
+{% include important.html content="**録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。**" %}
+{% include tip.html content="**録音した語学講座のファイルは、著作権法で認められた範囲内でご利用ください。**" %}
 
 
 <img src="https://github.com/CSReviser/CaptureStream/assets/46049273/630baada-27f1-4984-a6ce-3f2bc6349be4" width="350"> 
