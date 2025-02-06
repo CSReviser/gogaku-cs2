@@ -215,8 +215,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: 2024/10/07 Release notes
+      url: /release_notes_20241007.html
       output: web, pdf
 
     - title: 5.0 Release notes
