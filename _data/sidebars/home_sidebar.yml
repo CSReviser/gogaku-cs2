@@ -5,20 +5,219 @@ entries:
   levels: one
   folders:
 
-  - title: Products
-    output: web
+  - title:
+    output: pdf
+    type: frontmatter
     folderitems:
-    - title: News
-      url: /news.html
-      output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
-      output: web
-    - title: Product 1
-      url: /p1_landing_page.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
-      output: web
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: ホームページ
+      url: /index.html
+      output: web, pdf
+      type: homepage
+      
+      
+  - title: ドキュメント
+    output: web, pdf
+    folderitems:
+
+    - title: 初めての方へ
+      url: /introduction.html
+      output: web, pdf
+
+    - title: 従来との主な違い
+      url: /CS_vs_CS2.html
+      output: web, pdf
+
+    - title: 制限事項
+      url: /limitations.html
+      output: web, pdf
+
+    - title: 必要要件
+      url: /requirements.html
+      output: web, pdf
+
+    - title: ストリーミング公開期間
+      url: /Streaming_period.html
+      output: web, pdf
+
+    - title: 対象講座と番組ID一覧
+      url: /courses_name.html
+      output: web, pdf
+
+      subfolders:
+      - title: インストール手順
+        output: web
+        subfolderitems:
+
+        - title: Windows版
+          url: /install_win.html
+          output: web
+
+        - title: Ubuntu版
+          url: /install_linux.html
+          output: web
+
+        - title: MacOS版
+          url: /install_mac.html
+          output: web
+
+    - title: MacOS版について
+      url: /macos.html
+      output: web, pdf
+      
+    - title: アップデート（更新）
+      url: /update.html
+      output: web, pdf      
+
+      subfolders:
+      - title: 各種設定手順
+        output: web
+        subfolderitems:
+
+        - title: カスタマイズメニュー
+          url: /menu.html
+          output: web
+
+        - title: 任意らじる聴き逃し番組設定
+          url: /SETTING_COURSES.html
+          output: web
+
+        - title: 欧州語学講座応用編分離設定
+          url: /koza_separation.html
+          output: web
+
+        - title: 拡張子の選択
+          url: /SETTING_extension.html
+          output: web
+
+        - title: ［前週］チェックボックス
+          url: /last_week.html
+          output: web
+
+        - title: サムネイルを付ける
+          url: /thumbnail.html
+          output: web
+
+        - title: ファイル名のカスタマイズ設定
+          url: /file_name.html
+          output: web
+
+        - title: ffmpegパス設定
+          url: /SETTING_ffmpeg.html
+          output: web
+
+        - title: タスクスケジューラの設定方法(Windows)
+          url: /scheduler-win.html
+          output: web
+
+        - title: スケージュール録音の設定方法(Ubuntu)
+          url: /scheduler-linux.html
+          output: web
+
+        - title: コマンド・ライン・オプション
+          url: /command_line_option.html
+          output: web
+
+    - title: FAQ（よくある質問）
+      url: /FAQ.html
+      output: web, pdf
+
+    - title: トラブルシューティング
+      url: /troubleshooting.html
+      output: web, pdf
+
+    - title: ffmpeg最新版入手サイト
+      url: /FFMPEG.html
+      output: web, pdf
+
+    - title: 類似アプリ
+      url: /application.html
+      output: web, pdf
+
+    - title: リンク
+      url: /link.html
+      output: web, pdf
+
+  - title: Download
+    output: web, pdf
+    folderitems:
+
+    - title: Release notes
+      url: /download.html#実行ファイル
+      output: web, pdf
+
+    - title: Windows用
+      url: /download.html#windows用
+      output: web, pdf
+
+    - title: Ubuntu用
+      url: /download.html#ubumtu用
+      output: web, pdf
+
+    - title: MacOS用
+      url: /download.html#macos用
+      output: web, pdf
+
+  - title: イメージ
+    output: web, pdf
+    folderitems:
+
+    - title: Windows版
+      url: /images.html#windows版
+      output: web, pdf
+
+    - title: Ubuntu版
+      url: /images.html#ubuntu版
+      output: web, pdf
+
+    - title: MacOS版
+      url: /images.html#macos版
+      output: web, pdf
+
+  - title: 既知課題
+    output: web, pdf
+    folderitems:
+
+    - title: 全OS共通
+      url: /issue.html
+      output: web, pdf
+
+    - title: Windows関係
+      url: /issue.html#windows関係
+      output: web, pdf
+
+    - title: Ubuntu関係
+      url: /issue.html#ubuntu関係
+      output: web, pdf
+
+    - title: MacOS関係
+      url: /issue.html#macos関係
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 2024/10/07 Release notes
+      url: /release_notes_20241007.html
+      output: web, pdf
+
+    - title: 5.0 Release notes
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+# Copyright 2021 Google LLC
 
 # Copyright 2021 Google LLC
